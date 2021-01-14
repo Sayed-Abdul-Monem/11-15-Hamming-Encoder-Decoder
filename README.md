@@ -1,4 +1,4 @@
-# 11-15-Hamming-Encoder-Decoder
+# 11-15-Hamming-Encoder-Decoder in Verilog HDL
 This project introduces how to design a 11-bit hamming code encoder to 15-bit hamming code decoder  
 the Algorithm of Hamming :
 Write the bit positions starting from 1 to 15 in binary form .then All the bit positions in 15 bit codeword that are  power of 2 are marked as parity bits (1, 2, 4, 8) and the rest will be input data bits .
